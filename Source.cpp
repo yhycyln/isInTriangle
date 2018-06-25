@@ -1,5 +1,5 @@
 /************************
-* YAHYA CEYLANÝ
+* YAHYA CEYLANI
 * 25/06/2018
 * That program reads 3 points with x and y coordinates (2d) and a 4. point to check that the 4. point whether
 * inside or outside of the area of triangle that three points create
